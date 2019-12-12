@@ -300,6 +300,8 @@
 /* #region */
 .khan {
     background-color: #F2F2F2;
+}
+.khan__container {
     width: 80%;
     margin: auto;
 }
@@ -326,7 +328,7 @@
     margin: 0;
     line-height: 1.15;
     font-size: 24px;
-    font-weight: normal;
+    font-weight: 600;
 }
 .khan__quote-author-subline {
     margin-top: 10px;
