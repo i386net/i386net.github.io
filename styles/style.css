@@ -419,6 +419,9 @@
 .resources__list-item {
     display: inline;
 }
+.resources__link{
+    text-decoration: none;
+}
 .resources__logo {
     width: 270px;
     height: 38px;
